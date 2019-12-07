@@ -1,0 +1,14 @@
+#recipe-one-step,
+#recipe-two-step {
+    border-left: 2px solid pink;
+}
+#recipe-one-step {
+    border-top: 2px solid pink;
+}
+#recipe-two-step {
+    border-bottom: 2px solid pink;
+    border-right: 2px solid pink;
+}
+#list {
+    border:none;
+}
